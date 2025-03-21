@@ -1,7 +1,7 @@
 '''Pandas is very popular in python community espicially in Data Analysis(Data Science).
 
 #What is Data Science
-Data Science od data analytics is a process of analyzing large set of data points to get answers on questions related to that data set.
+Data Science or data analytics is a process of analyzing large set of data points to get answers on questions related to that data set.
 
 Pandas is a python module that makes data science easy and effective.
 '''
